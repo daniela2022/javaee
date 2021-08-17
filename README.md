@@ -7,7 +7,7 @@ Utilizando as seguintes tecnologias:
 
 - Servidor TomCat
 - JavaEE
-- Banco de dados MYSQL
+- Banco de dados MySQL
 
 Tela Principal:
 
