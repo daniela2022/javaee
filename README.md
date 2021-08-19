@@ -6,8 +6,14 @@ Projeto idealizado para desenvolver um CRUD -Create,Read,Update and Delete em Ja
 Utilizando as seguintes tecnologias:
 
 - Servidor TomCat
-- JavaEE
-- Banco de dados MySQL
+- Java EE – Servlet e JSP
+- IDE Eclipse
+- MySQL
+- MVC (Model View Controller)
+- JavaBeans
+- DAO
+- JDBC (Java Database Connectivity)
+- iText
 
 Tela Principal:
 
