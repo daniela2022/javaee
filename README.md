@@ -1,7 +1,7 @@
 # javaee
 Java Web - Agenda de contatos - Cabeleireira Leila
 
-Projeto idealizado para desenvolver um CRUD -Create,Read,Update and Delete em Java.
+Projeto idealizado para desenvolver um CRUD -Create,Read,Update and Delete em Java EE.
 
 Utilizando as seguintes tecnologias:
 
